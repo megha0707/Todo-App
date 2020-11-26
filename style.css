@@ -1,0 +1,29 @@
+ .navbar{
+    background-color: #330033;
+} 
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+ .btn {
+    position: absolute;
+    bottom: 0;
+    color: #f1f1f1; 
+    width: 20%; 
+    height: 5%;
+    margin-left:150px;
+    margin-bottom: 2px;
+    
+    background-color: blue;
+  }
+section{
+    background-color: rebeccapurple;
+}
+.footer{
+    background-color: black;
+    color:white;
+    text-align: center;
+    
+}
